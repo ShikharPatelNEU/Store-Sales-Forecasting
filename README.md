@@ -1,4 +1,4 @@
-# Sales-Price-Prediction
+# Corporación Favorita Sales Forecasting
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/d12e737c-1a9c-47b0-9525-3516c2a05a11)
 
